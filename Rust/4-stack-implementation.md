@@ -78,6 +78,5 @@ fn main() {
 
     //rev_string now holds the reversed string
 
-
 }
 ```
